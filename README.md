@@ -101,10 +101,3 @@ I believe the best software feels invisible – it just works, performs reliably
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=orangeztorm&color=58A6FF&style=for-the-badge)
-
-**Always open to interesting projects and collaborations!** 🚀
-
-</div>
