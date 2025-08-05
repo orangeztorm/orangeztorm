@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Taiwo Kenny (a.k.a. elistas – coming soon)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=600&lines=I+build+developer+tools%2C+SDKs+%26+data-driven+apps.;Mobile+%7C+Backend+%7C+Dev+Infra+%7C+CLI+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=700&lines=I+build+dev+tools%2C+SDKs+%26+data-driven+apps.;Mobile+%7C+Backend+%7C+CLI+%7C+Data+Science+%7C+Dev+Infra)](https://git.io/typing-svg)
+
+
 
 📦 SDK Engineer · 🧱 Flutter Dev · ☁️ Cloud Infra · 🧪 Test Automation · 🧠 Always Learning
 
