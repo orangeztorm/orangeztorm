@@ -67,4 +67,3 @@ FlowTest helps devs write predictable, reusable test scenarios for complex state
 
 > 💬 “I build tools that make development feel like magic.”
 
-![Profile views](https://komarev.com/ghpvc/?username=orangeztorm&color=blue&style=flat)
