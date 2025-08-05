@@ -1,22 +1,34 @@
 # 👋 Hi, I'm Taiwo Kenny (a.k.a. elistas – coming soon)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=700&lines=I+build+dev+tools%2C+SDKs+%26+data-driven+apps.;Mobile+%7C+Backend+%7C+CLI+%7C+Data+Science+%7C+Dev+Infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&vCenter=true&multiline=true&width=700&lines=Senior+Software+Engineer+%7C+Flutter+%2F+Backend+%2F+Infra+%2F+CLI;I+build+robust+SDKs+%2C+test+infra+%2C+and+data-driven+tools.)](https://git.io/typing-svg)
 
-
-
-
-
-📦 SDK Engineer · 🧱 Flutter Dev · ☁️ Cloud Infra · 🧪 Test Automation · 🧠 Always Learning
 
 ---
 
-## 🛠️ Currently Focused On
+## 🛠️ Expertise
 
-- 📦 Building **FlowTest** – an SDK + CLI for testing complex async flows in Flutter
-- 🧪 Improving test infrastructure and developer experience across mobile and CLI tools
-- 🧠 Learning **data science pipelines** and exploring Python-based analytics
-- ⚙️ Practicing Go for backend services and CLI tools
-- 🛠 Creating reusable architectures and tooling across side projects
+### 📱 Flutter (5+ years)
+- Architected cross-platform mobile apps (BLoC, Riverpod, Clean Architecture)
+- Integrated Firebase, Maps, WebSocket, dynamic forms, and live video SDKs
+- Strong focus on test automation (unit/widget), deep linking, and app performance
+- Experience with CI/CD for Play Store and App Store workflows (Fastlane, GitHub Actions)
+
+### ⚙️ Backend Engineering (7+ years)
+- Built scalable APIs and microservices with **Node.js**, **NestJS**, **Go**, and **Python**
+- Designed event-driven systems with **Redis**, **PostgreSQL**, **Kafka**, **RabbitMQ**
+- Automated infrastructure using **Terraform**, **Docker**, **CI/CD pipelines**
+- Delivered backends for fintech, logistics, and cloud-native platforms
+
+---
+
+## 🌍 Industry Experience
+
+- 💸 **Fintech:** Virtual cards, FX wallets, offshore payments, PCI integrations  
+- 🚚 **Logistics:** Rider tracking, delivery systems, fleet monitoring  
+- 📦 **Asset Management:** Rental lifecycle, real-time dashboards, telemetry  
+- 🎥 **Media & Social:** Live video sharing, background playback, in-app capture flows  
+- 🏥 **Health Tech:** Video consultations, appointment scheduling  
+- 🎁 **Loyalty Systems:** Tiered rewards, customer analytics, POS integrations
 
 ---
 
@@ -24,50 +36,30 @@
 
 > 🧪 **An SDK + CLI to test async flows in Flutter apps and Dart packages**
 
-FlowTest helps devs write predictable, reusable test scenarios for complex state machines, async UIs, and event streams.
+**FlowTest** helps developers write predictable, reusable test scenarios for complex state machines, async UIs, and event streams.
 
 **Key Features:**
-- Modular SDK with support for `Bloc`, `Riverpod`, or plain Dart
-- CLI tool to scaffold test files and scenarios
-- Snapshot assertions and mock layering
-- Built for large-scale app teams and plugin authors
-
-> ⚡ Built for developer joy. Designed for scale.
+- Modular SDK (supports BLoC, Riverpod, plain Dart)
+- CLI to scaffold test templates and assertions
+- Snapshot & mock-layering support
+- Built for teams that value developer experience
 
 ---
 
-## 💻 Toolbox & Interests
+## 💻 Toolbox
 
-**Languages:** Dart · Python · Go · TypeScript · SQL  
-**Mobile Dev:** Flutter (Bloc, Riverpod, Firebase)  
-**Tooling:** GitHub Actions · Fastlane · Docker · Terraform  
-**Infra/Data:** PostgreSQL · Redis · Apache Airflow · Kafka · CLI  
-**Focus Areas:** Test automation · DevInfra · CLI SDKs · Data Science  
-
----
-
-## 🌱 Side Projects & Experiments
-
-- 🧠 **Cartoonizer** – Convert images to cartoon (Python, OpenCV)
-- 📦 `flowtest-example` – coming soon: demo usage of FlowTest in a real app
-- 🔄 Exploring local-first apps and event-driven architectures
-- 🧪 Mocking strategies for async tests in Flutter & Dart
-- ✨ Personal CLI tooling for environment automation (bash + Go)
+**Languages:** Dart · TypeScript · Go · Python · SQL  
+**Mobile:** Flutter (BLoC, Riverpod, Firebase, Platform Channels)  
+**Backend:** NestJS · Node.js · REST APIs · gRPC  
+**Data/Infra:** PostgreSQL · Redis · Kafka · Airflow · Terraform  
+**DevOps:** GitHub Actions · Docker · Fastlane · Jenkins  
+**Focus Areas:** SDKs · Test Automation · CLI Tooling · Data Pipelines · Cloud Infra
 
 ---
 
-## 🧭 Next Steps
-
-- Launch `flowtest` publicly with CLI docs and community support
-- Publish learning notes on Airflow + Go + Python data workflows
-- Possibly rename GitHub to [`elistas`](https://github.com/elistas) (TBD)
-
----
-
-## 📫 Reach Out
+## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/taiwo-kenny)
 - [Email](mailto:taiwokenny45@gmail.com)
 
-> 💬 “I build tools that make development feel like magic.”
-
+> 💬 "I build tools that scale, survive, and simplify developer workflows."
